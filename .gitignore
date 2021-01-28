@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.git/
+.idea/
+node_modules/
+app/css/
+.vs
+result/
+package-lock.json
+dist/
+
+#//npm install webp-converter@2.2.3 --save-dev
